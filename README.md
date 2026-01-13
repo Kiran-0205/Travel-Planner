@@ -50,4 +50,3 @@ This project combines **Web Development (ReactJS + CSS)** with **Graph Algorithm
 
 ### Planner Page 
 ![Planner Page](./3.png)
-## Demo Video
